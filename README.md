@@ -1,5 +1,5 @@
 # Spirit_Airlines-2018
-Analysis of Spirit Airlines performance in 2018 using Tableau
+Analysis of Spirit Airlines performance in 2018 and comparison against a rival (JetBlue) using Tableau
 
 Due to size constraints could not upload workbook but complete vizualizations can be viewed on Tableau Public at [Link](https://public.tableau.com/profile/prasanna.vengatesh.venkataraman#!/vizhome/SpiritAirlines2018/FrontPage)
 
